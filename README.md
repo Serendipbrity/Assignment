@@ -17,4 +17,4 @@
 
 * title changed
 
-
+![Alt text](./assets/images/01-html-css-git-homework-demo.png "Screenshot")
