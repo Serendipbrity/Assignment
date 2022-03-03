@@ -4,7 +4,9 @@
 
 https://serendipbrity.github.io/Assignment/
 
-## Commit Issues so commits are listed under below under changes made
+## Commit Issues 
+
+* I had commit issues when starting so a list of commits added is below 
 
 ## Changes Made
 * Comments Added to html and CSS
