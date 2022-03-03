@@ -1,5 +1,7 @@
 # Code Refactor Starter Code
 
+## Commit Issues so commits are listed under below under changes made
+
 ## Changes Made
 * Comments Added to html and CSS
 
