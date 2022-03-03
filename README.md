@@ -6,7 +6,7 @@ https://serendipbrity.github.io/Assignment/
 
 ## Commit Issues 
 
-* I had commit issues when starting so a list of commits added is below 
+* I had commit issues when starting so a list of commits is added is below 
 
 ## Changes Made
 * Comments Added to html and CSS
